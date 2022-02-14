@@ -1,9 +1,0 @@
-<html>
-<head>
-<h1>Hello World. Hi MY COMMUNITY!</h1>
-</head>
-<body>
-<h1>Lol, i'm really create this site with 7IQ?  xD</h1>
-<image scr=mem.png alt="Wait for it)  xD" width="600" height="600"
-</body>
-</html>
